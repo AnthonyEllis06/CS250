@@ -1,1 +1,3 @@
 # CS250
+---------------------------------------
+I believe that the best way to interpret user needs into a  program is to ask the user what problems they are trying to solve. We can use user stories to solve this by asking them to tell us what they are looking for and how it could benefit them. I approach developing programs headfirst when I really need to plan more. A big part of agile that I hope to incorporate would be creating a product backlog to break down projects into smaller pieces. I think to be good team member in software development you must be willing to continuously learn while also be willing to commit the time to learning and consistenly providing finished products and pulling your own weight. 
